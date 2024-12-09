@@ -1,0 +1,35 @@
+[
+    {
+        "Sr.": "S.|",
+        "Particular": "Pacla",
+        "HSN": "HSN",
+        "Quantity": "Qam|",
+        "Unit": "U",
+        "Rate": "Raa|",
+        "Assessable Value": "a ma",
+        "GST %": "4g",
+        "CGST": "CGST|",
+        "SGST": "",
+        "Amount": "SGST"
+    },
+    {
+        "Sr.": "a l",
+        "Particular": "7"
+    },
+    {
+        "Sr.": "1",
+        "Particular": "20W SQ PANEL 4K 18%",
+        "HSN": "9405",
+        "Quantity": "170.000.",
+        "Unit": "PCS",
+        "Rate": "75.00)",
+        "Assessable Value": "12750.00",
+        "GST %": "18",
+        "CGST": "1147.50)",
+        "SGST": "1147.50|",
+        "Amount": "15045.00"
+    },
+    {
+        "Sr.": "170.000"
+    }
+]
